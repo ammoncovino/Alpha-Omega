@@ -9,9 +9,16 @@ This is not philosophy. It is a diagnostic instrument. The lens is falsifiable: 
 ## The Books
 
 - **[Book One](./Alpha-Omega-Book-One-Standalone.pdf)** — The Lens (18 chapters): See / Hear / Speak — how perception, signal, and language construct the models we mistake for reality.
-- **[Book Two](./Alpha-Omega-Book-Two-Standalone.pdf)** — The Application (40 chapters): The lens applied to governance, law, economics, religion, enforcement, and technology.
+- **[Book Two](./Alpha-Omega-Book-Two-Standalone.pdf)** — The Application (40 chapters): The lens applied to governance, law, economics, religion, enforcement, and technology. Editable chapter sources for chapters 21–40 are in [`book-two-chapters/`](./book-two-chapters/).
 - **[Book Three](./Alpha-Omega-Book-Three-Standalone.pdf)** — Reader Integration: Where the reader becomes the subject.
 - **[Complete Trilogy (Print-Ready)](./Alpha-Omega-Complete-Trilogy-Print-Ready.pdf)** — All three books, 158 pages.
+
+### Reader Documents
+
+For a shorter orientation that stands alone without the full trilogy, see [`reader-documents/`](./reader-documents/):
+
+- **[Public Reader Release v1.4](./reader-documents/Public-Reader-Release-v1.4.pdf)** — The Glass analogy, the core premise, the 5-step application sequence, and a copy-paste prompt that runs the lens in any LLM.
+- **[Framing Map Addendum v1](./reader-documents/Framing-Map-Addendum-v1.pdf)** — How the three structural framings of the lens (spine, book, reader) relate.
 
 ### The Alpha-Omega Lens
 
